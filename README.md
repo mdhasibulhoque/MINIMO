@@ -1,0 +1,2 @@
+# MINIMO
+Monimo project
